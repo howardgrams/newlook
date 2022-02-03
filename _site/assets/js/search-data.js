@@ -373,4 +373,9 @@ var store = [{
         "excerpt":"Here’s a fresh view showing both the Horsehead Nebula and the Flame Nebula, two celestial showpieces that are located quite close to each other in the constellation Orion.This past week we had a night with exceptionally clear and transparent skies. I was able to image a couple of new objects...","categories": ["nebula"],
         "tags": ["ngc2023","ngc2024","ic432","ic434","ic435","b33"],
         "url": "http://0.0.0.0:4000/nebula/Horsehead-and-Flame-the-Big-Picture/"
+      },{
+        "title": "Testing 1 2 3 4. . .",
+        "excerpt":"Some stuff.   Hi there! A regular device.  Hi there! A mobile device.some other stuff. ==== ABCDE  EFGHI==== ","categories": ["nebula"],
+        "tags": ["test"],
+        "url": "http://0.0.0.0:4000/nebula/Testing-1-2-3-4/"
       }]

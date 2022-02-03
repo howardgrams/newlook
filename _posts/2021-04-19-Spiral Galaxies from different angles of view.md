@@ -9,14 +9,13 @@ Here are three different faint spiral galaxies that look quite different since w
 ### First, NGC 1232 is a fairly faint galaxy that we view completely face-on.
 NGC 1232 is about 70 million light years away from us, meaning that the photons of light that I captured with my telescope and camera were emitted by stars in the galaxy back when dinosaurs were still roaming the earth. And light travels at the speed of 186000 miles **PER SECOND**. Galaxies are mind-bogglingly far away!
 
-_**NGC 1232**_  &nbsp;&nbsp; (20 min total exposure Jan 4, 2021)<br>  (move mouse over image to show notes, mouse off image to remove notes)<br>
+_**NGC 1232**_  &nbsp;&nbsp; (20 min total exposure Jan 4, 2021)<br>  
+{% include /explainnotes.js %}
 <img src = "/images/ngc1232_2021-01-04T21_21_15_Stack_16bits_241frames_1205s.jpg"
 alt = "ngc1232 seen using Celestron RASA 8 and ZWO ASI183MC"
 onmouseover = "this.src='/images/ngc1232_2021-01-04t21_21_15_stack_16bits_241frames_1205s_notes.jpg'"
 onmouseout = "this.src='/images/ngc1232_2021-01-04T21_21_15_Stack_16bits_241frames_1205s.jpg'"
 /><br>
-(If you are using a touchscreen device, tap the image to reveal the notations
-and tap away from the image to restore the original image.)<br>
 
 If you don't see the annotated image, click [here](/images/ngc1232_2021-01-04t21_21_15_stack_16bits_241frames_1205s_notes.jpg)
 
@@ -31,7 +30,7 @@ In addition, we see a satellite galaxy - NGC 1232A. This is somewhat reminiscent
 We see spiral arms and some prominent dust lanes.
 
 _**NGC 7331**_  &nbsp;&nbsp; (15 min total exposure Jan 12, 2021)<br>
-(move mouse over image to show notes, mouse off image to remove notes)<br>
+{% include /explainnotes.js %}
 <img src = "/images/ngc7331_2021-01-12T19_09_02_Stack_16bits_180frames_900s.jpg"
 alt = "ngc7331 seen using Celestron RASA 8 and ZWO ASI183MC" 
 onmouseover = "this.src='/images/ngc7331_2021-01-12T19_09_02_Stack_16bits_180frames_900s_notes.jpg'"

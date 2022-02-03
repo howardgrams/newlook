@@ -9,16 +9,8 @@ Here's a fresh view showing both the Horsehead Nebula and the Flame Nebula, two 
 This past week we had a night with exceptionally clear and transparent skies. I was able to image a couple of new objects as well as take a fresh look at some old favorites. Among my old favorites, I can't resist reshowing the Horsehead and the Flame.
 
 _**Flame Nebula and Horsehead Nebula**_  &nbsp;&nbsp; (35 min total exposure Jan 27, 2022)<br>
-<!-- <p style="font-size:12pt; font-style:italic">
-(Move mouse over image to show notes, mouse off image to restore original image. 
-If you are using a touchscreen device, tap the image to show notes
-and tap away from the image to restore original image.)
-</p> -->
-_(Move mouse over image to show notes, mouse off image to restore original image. 
-If using a touchscreen, tap image to show notes
-and tap away from image to restore.)_
-
-<img src = "/images/ngc2024_2022-01-27T00_07_19_Stack_16bits_421frames_2105s_bin50pc+pse.jpg"
+ {% include /explainnotes.js %}
+ <img src = "/images/ngc2024_2022-01-27T00_07_19_Stack_16bits_421frames_2105s_bin50pc+pse.jpg"
 alt = "Flame and Horsehead Nebulae seen using Celestron RASA 8 and ZWO ASI183MC"
 onmouseover = "this.src='/images/ngc2024_2022-01-27t00_07_19_stack_16bits_421frames_2105s_bin50pc+pse_notes.jpg'"
 onmouseout = "this.src='/images/ngc2024_2022-01-27T00_07_19_Stack_16bits_421frames_2105s_bin50pc+pse.jpg'"
@@ -36,4 +28,3 @@ click [here](../Flame-Nebula/index.html)
 to see my original post of the Flame.
 Today's image is a longer exposure that covers a larger area of the sky and shows vividly how the two are really part of the much larger complex. Plus, the sky conditions were better this week and I've learned a little more about taking and processing images in the meantime.
 
-Some little testing
