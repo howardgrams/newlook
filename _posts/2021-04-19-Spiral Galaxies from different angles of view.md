@@ -9,7 +9,7 @@ Here are three different faint spiral galaxies that look quite different since w
 ### First, NGC 1232 is a fairly faint galaxy that we view completely face-on.
 NGC 1232 is about 70 million light years away from us, meaning that the photons of light that I captured with my telescope and camera were emitted by stars in the galaxy back when dinosaurs were still roaming the earth. And light travels at the speed of 186000 miles **PER SECOND**. Galaxies are mind-bogglingly far away!
 
-_**NGC 1232**_  &nbsp;&nbsp; (20 min total exposure Jan 4, 2021)<br>  
+_**NGC 1232**_  &nbsp;&nbsp; (20 min total exposure Jan 4, 2021)<br>
 {% include /explainnotes.js %}
 <img src = "/images/ngc1232_2021-01-04T21_21_15_Stack_16bits_241frames_1205s.jpg"
 alt = "ngc1232 seen using Celestron RASA 8 and ZWO ASI183MC"
