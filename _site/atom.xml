@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-02-03T17:31:56-05:00</updated><id>http://0.0.0.0:4000/atom.xml</id><title type="html">Suburban Backyard Astro Sights (new look)</title><subtitle>Sharing celestial scenery revealed by my 8-inch telescope</subtitle><author><name>Howard Grams</name><email>howardgrams@yahoo.com</email></author><entry><title type="html">Testing 1 2 3 4. . .</title><link href="http://0.0.0.0:4000/nebula/Testing-1-2-3-4/" rel="alternate" type="text/html" title="Testing 1 2 3 4. . ." /><published>2022-02-02T00:00:00-05:00</published><updated>2022-02-02T00:00:00-05:00</updated><id>http://0.0.0.0:4000/nebula/Testing-1-2-3-4</id><content type="html" xml:base="http://0.0.0.0:4000/nebula/Testing-1-2-3-4/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-02-03T17:34:22-05:00</updated><id>http://0.0.0.0:4000/atom.xml</id><title type="html">Suburban Backyard Astro Sights (new look)</title><subtitle>Sharing celestial scenery revealed by my 8-inch telescope</subtitle><author><name>Howard Grams</name><email>howardgrams@yahoo.com</email></author><entry><title type="html">Testing 1 2 3 4. . .</title><link href="http://0.0.0.0:4000/nebula/Testing-1-2-3-4/" rel="alternate" type="text/html" title="Testing 1 2 3 4. . ." /><published>2022-02-02T00:00:00-05:00</published><updated>2022-02-02T00:00:00-05:00</updated><id>http://0.0.0.0:4000/nebula/Testing-1-2-3-4</id><content type="html" xml:base="http://0.0.0.0:4000/nebula/Testing-1-2-3-4/">&lt;style&gt;
   .mobile {
     padding: 15px;
   border: 1px solid #d6e9c6;
@@ -121,9 +121,9 @@ document.write('&lt;i&gt;&lt;small&gt;(Tap image to show notes and tap away from
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Pickering’s Triangle&lt;/strong&gt;&lt;/em&gt;     (45 min total exposure Oct 31, 2021)&lt;br /&gt;
 &lt;script&gt;
   if (window.matchMedia(&quot;(any-hover: hover)&quot;).matches) {
-    document.write('&lt;i&gt;&lt;small&gt;(Move mouse over image to show notes, mouse off image to restore original image.)&lt;/small&gt;&lt;/i&gt;&lt;br /&gt;')
+    document.write(' ')
      }  else {
-document.write('&lt;i&gt;&lt;small&gt;(Tap image to show notes and tap away from image to restore original image. Pinch-zoom out to enlarge image.)&lt;/small&gt;&lt;/i&gt;&lt;br /&gt;')
+document.write('&lt;i&gt;&lt;small&gt;(Pinch-zoom out to enlarge image.)&lt;/small&gt;&lt;/i&gt;&lt;br /&gt;')
  }
 &lt;/script&gt;
 &lt;img src=&quot;/images/ngc6960_2021-10-31T21_13_10_Stack_16bits_1000frames_3000s_bin50pc.jpg&quot; alt=&quot;ngc6960 seen using Celestron RASA 8 and ZWO ASI183MC&quot; /&gt;
@@ -139,9 +139,14 @@ Since it had not yet been discovered when the NGC catalog was created, it has no
 &lt;p&gt;I had taken some images of the Veil last year but was not happy enough with them to share in this blog.  Recent longer and less hazy nights allowed me to take some considerably longer exposure images to capture more detail. This is another one of those.&lt;/p&gt;</content><author><name>Howard Grams</name><email>howardgrams@yahoo.com</email></author><category term="nebula" /><summary type="html">The Veil Nebula is the wispy wreckage of a supernova that exploded some eight thousand years ago. Here we see Pickering’s Triangle, yet another portion of the Veil complex, which is located between the east and west portions that we saw previously.</summary></entry><entry><title type="html">The Western Veil Nebula</title><link href="http://0.0.0.0:4000/nebula/Western-Veil-Nebula/" rel="alternate" type="text/html" title="The Western Veil Nebula" /><published>2021-11-19T00:00:00-05:00</published><updated>2021-11-19T00:00:00-05:00</updated><id>http://0.0.0.0:4000/nebula/Western%20Veil%20Nebula</id><content type="html" xml:base="http://0.0.0.0:4000/nebula/Western-Veil-Nebula/">&lt;p&gt;The large and extensive Veil Nebula deserves another look. Here we see another separate portion, the western part of the nebula.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;The Western Veil Nebula&lt;/strong&gt;&lt;/em&gt;     (45 min total exposure Oct 31, 2021)&lt;br /&gt;
+&lt;script&gt;
+  if (window.matchMedia(&quot;(any-hover: hover)&quot;).matches) {
+    document.write(' ')
+     }  else {
+document.write('&lt;i&gt;&lt;small&gt;(Pinch-zoom out to enlarge image.)&lt;/small&gt;&lt;/i&gt;&lt;br /&gt;')
+ }
+&lt;/script&gt;
 &lt;img src=&quot;/images/ngc6960_2021-10-31T20_10_23_Stack_16bits_1000frames_3000s_bin50pc.jpg&quot; alt=&quot;ngc6960 seen using Celestron RASA 8 and ZWO ASI183MC&quot; /&gt;
-&lt;br /&gt;
-(Phone users, scroll to see the whole image —&amp;gt;)
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Western Veil, NGC 6960, is sometimes known as the “Witch’s Broom”. This section is centered behind the bright star 52 Cygni. The right half in this image looks like a sharp fang with a darker center. The left half divides into parallel ribbons.&lt;/p&gt;
@@ -149,9 +154,14 @@ Since it had not yet been discovered when the NGC catalog was created, it has no
 &lt;p&gt;The eastern and the western Veils are visible portions of the Cygnus Loop supernova remnant. The source supernova was a star 20 times more massive than the Sun which exploded between 10,000 and 20,000 years ago. The remnants have since expanded to cover an area of the sky roughly about 6 times the diameter of the full Moon.&lt;/p&gt;</content><author><name>Howard Grams</name><email>howardgrams@yahoo.com</email></author><category term="nebula" /><category term="ngc6960" /><summary type="html">The large and extensive Veil Nebula deserves another look. Here we see another separate portion, the western part of the nebula.</summary></entry><entry><title type="html">The Eastern Veil Nebula</title><link href="http://0.0.0.0:4000/nebula/Eastern-Veil-Nebula/" rel="alternate" type="text/html" title="The Eastern Veil Nebula" /><published>2021-11-01T00:00:00-04:00</published><updated>2021-11-01T00:00:00-04:00</updated><id>http://0.0.0.0:4000/nebula/Eastern%20Veil%20Nebula</id><content type="html" xml:base="http://0.0.0.0:4000/nebula/Eastern-Veil-Nebula/">&lt;p&gt;The Veil Nebula is a portion of the wispy wreckage of a supernova that exploded some eight thousand years ago.  Here we see the eastern portion.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;The Eastern Veil Nebula&lt;/strong&gt;&lt;/em&gt;     (45 min total exposure Oct 27, 2021)&lt;br /&gt;
+&lt;script&gt;
+  if (window.matchMedia(&quot;(any-hover: hover)&quot;).matches) {
+    document.write(' ')
+     }  else {
+document.write('&lt;i&gt;&lt;small&gt;(Pinch-zoom out to enlarge image.)&lt;/small&gt;&lt;/i&gt;&lt;br /&gt;')
+ }
+&lt;/script&gt;
 &lt;img src=&quot;/images/ngc6992_2021-10-27T22_39_31_Stack_16bits_900frames_2700s_bin50pc.jpg&quot; alt=&quot;ngc6992 seen using Celestron RASA 8 and ZWO ASI183MC&quot; /&gt;
-&lt;br /&gt;
-(If using a phone, scroll to see whole image —&amp;gt;)
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Around 6000 BC, not too long before the Egyptians built their first pyramid, a supergiant star some twenty times more massive than the Sun collapsed and rebounded in a spectacular supernova explosion. A glowing remnant, the Veil Nebula, has been expanding in the death-star’s wake ever since.&lt;/p&gt;
@@ -168,11 +178,15 @@ The Crescent Nebula is a faint, loop-shaped nebula forming a partial squashed ci
 &lt;p&gt;With the short nights and hazy summer skies, this time of year is not very favorable for amateur astronomers and our telescopes.
  But we finally had a decent clear moonless night earlier this week and I took advantage of it to observe this faint object.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;The Crescent Nebula&lt;/strong&gt;&lt;/em&gt;     (30 min total exposure Aug 6, 2021)&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/NGC6888_2021-08-06_2x902L_bin50.jpg&quot; alt=&quot;NGC6888_2021-08-06_2x902L seen using Celestron RASA 8 and ZWO ASI183MC&quot; /&gt;
-&lt;br /&gt;
-(If using a phone, scroll to see whole image —&amp;gt;)
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;The Crescent Nebula&lt;/strong&gt;&lt;/em&gt;     (30 min total exposure Aug 6, 2021)&lt;br /&gt;
+&lt;script&gt;
+  if (window.matchMedia(&quot;(any-hover: hover)&quot;).matches) {
+    document.write(' ')
+     }  else {
+document.write('&lt;i&gt;&lt;small&gt;(Pinch-zoom out to enlarge image.)&lt;/small&gt;&lt;/i&gt;&lt;br /&gt;')
+ }
+&lt;/script&gt;
+&lt;img src=&quot;/images/NGC6888_2021-08-06_2x902L_bin50.jpg&quot; alt=&quot;NGC6888_2021-08-06_2x902L seen using Celestron RASA 8 and ZWO ASI183MC&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Crescent Nebula (or NGC 6888) is about 4700 light years away from us. It is the result of a massive star that is near the end of its life and is losing mass at an incredibly high rate -  equivalent to the mass of the Sun about every 10,000 years. That material is expanding and colliding with and energizing slower moving material that was previously ejected by the star when it became a red giant several hundred thousand years earlier.&lt;/p&gt;

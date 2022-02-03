@@ -350,12 +350,12 @@ var store = [{
         "url": "http://0.0.0.0:4000/nebula/Crescent-Nebula/"
       },{
         "title": "The Eastern Veil Nebula",
-        "excerpt":"The Veil Nebula is a portion of the wispy wreckage of a supernova that exploded some eight thousand years ago. Here we see the eastern portion. The Eastern Veil Nebula    (45 min total exposure Oct 27, 2021)(If using a phone, scroll to see whole image —&gt;) Around 6000 BC,...","categories": ["nebula"],
+        "excerpt":"The Veil Nebula is a portion of the wispy wreckage of a supernova that exploded some eight thousand years ago. Here we see the eastern portion. The Eastern Veil Nebula    (45 min total exposure Oct 27, 2021) Around 6000 BC, not too long before the Egyptians built their first...","categories": ["nebula"],
         "tags": ["ngc6992","ngc6995"],
         "url": "http://0.0.0.0:4000/nebula/Eastern-Veil-Nebula/"
       },{
         "title": "The Western Veil Nebula",
-        "excerpt":"The large and extensive Veil Nebula deserves another look. Here we see another separate portion, the western part of the nebula. The Western Veil Nebula    (45 min total exposure Oct 31, 2021)(Phone users, scroll to see the whole image —&gt;) The Western Veil, NGC 6960, is sometimes known as...","categories": ["nebula"],
+        "excerpt":"The large and extensive Veil Nebula deserves another look. Here we see another separate portion, the western part of the nebula. The Western Veil Nebula    (45 min total exposure Oct 31, 2021) The Western Veil, NGC 6960, is sometimes known as the “Witch’s Broom”. This section is centered behind...","categories": ["nebula"],
         "tags": ["ngc6960"],
         "url": "http://0.0.0.0:4000/nebula/Western-Veil-Nebula/"
       },{
