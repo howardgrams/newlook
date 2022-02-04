@@ -310,7 +310,7 @@ var store = [{
         "url": "http://0.0.0.0:4000/nebula/Rings-in-the-sky/"
       },{
         "title": "The Pelican Nebula",
-        "excerpt":"The Pelican Nebula (also known as IC 5070) is an emission nebula whose outlines bear a resemblance to a pelican, giving rise to its name. (If you are viewing this on a phone or other small display, be sure to scroll to the right to see the complete image!) The...","categories": ["nebula"],
+        "excerpt":"The Pelican Nebula (also known as IC 5070) is an emission nebula whose outlines bear a resemblance to a pelican, giving rise to its name. The Pelican Nebula (IC 5070)   (33 min total exposure Nov 16, 2020) This region of the Milky Way is a particularly active and chaotic mix...","categories": ["nebula"],
         "tags": ["ic5070"],
         "url": "http://0.0.0.0:4000/nebula/The-Pelican-Nebula/"
       },{
@@ -320,7 +320,7 @@ var store = [{
         "url": "http://0.0.0.0:4000/galaxy/Three-more-Spiral-Galaxies/"
       },{
         "title": "The Christmas Tree Cluster",
-        "excerpt":"Merry Christmas! In keeping with the holiday, here is a fresh look at one of my favorite objects, theChristmas Tree Cluster, NGC 2264. The Christmas Tree Cluster (move mouse over image to show notes, mouse off image to remove notes)    (30 min total exposure Apr 10, 2020) (If you...","categories": ["nebula","open"],
+        "excerpt":"Merry Christmas! In keeping with the holiday, here is a fresh look at one of my favorite objects, theChristmas Tree Cluster, NGC 2264. The Christmas Tree Cluster    (30 min total exposure Apr 10, 2020) The bright variable star S Monocerotis (near the bottom) marks the base of the Christmas...","categories": ["nebula","open"],
         "tags": ["ngc2264"],
         "url": "http://0.0.0.0:4000/nebula/open/Christmas-Tree-Cluster-Redux/"
       },{
@@ -330,12 +330,12 @@ var store = [{
         "url": "http://0.0.0.0:4000/nebula/open/Celestial-Whimsy/"
       },{
         "title": "A Celestial Valentine - The Heart Nebula",
-        "excerpt":"Although I made this picture back in December, I thought it would be appropriate to wait and post it on Valentine’s Day. The Heart Nebula    (15 min exposure Dec 14, 2020)I had problems getting my usual notations to appear and disappear by moving the mouse, so here is the...","categories": ["nebula","open"],
+        "excerpt":"Although I made this picture back in December, I thought it would be appropriate to wait and post it on Valentine’s Day. The Heart Nebula    (15 min exposure Dec 14, 2020) The Heart Nebula, IC 1805 or Sharpless 2-190, lies about 7500 light years away from Earth.It is an...","categories": ["nebula","open"],
         "tags": ["ic1805","ngc1027","ngc896","ic1795"],
         "url": "http://0.0.0.0:4000/nebula/open/The-Heart-Nebula/"
       },{
         "title": "The Running Man Nebula",
-        "excerpt":"Following a stretch of poor weather, I got a chance to take the telescope out again the other night and got a good look at a somewhat whimsical space ghost - the Running Man Nebula. The Running Man Nebula    (20 min total exposure Mar 3, 2021) (move mouse over...","categories": ["nebula","open"],
+        "excerpt":"Following a stretch of poor weather, I got a chance to take the telescope out again the other night and got a good look at a somewhat whimsical space ghost - the Running Man Nebula. The Running Man Nebula    (20 min total exposure Mar 3, 2021) The Running Man...","categories": ["nebula","open"],
         "tags": ["ngc1973","ngc1975","ngc1977","ngc1981"],
         "url": "http://0.0.0.0:4000/nebula/open/Running-Man-Nebula/"
       },{

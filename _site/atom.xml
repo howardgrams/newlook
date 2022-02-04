@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-02-03T17:40:27-05:00</updated><id>http://0.0.0.0:4000/atom.xml</id><title type="html">Suburban Backyard Astro Sights (new look)</title><subtitle>Sharing celestial scenery revealed by my 8-inch telescope</subtitle><author><name>Howard Grams</name><email>howardgrams@yahoo.com</email></author><entry><title type="html">Testing 1 2 3 4. . .</title><link href="http://0.0.0.0:4000/nebula/Testing-1-2-3-4/" rel="alternate" type="text/html" title="Testing 1 2 3 4. . ." /><published>2022-02-02T00:00:00-05:00</published><updated>2022-02-02T00:00:00-05:00</updated><id>http://0.0.0.0:4000/nebula/Testing-1-2-3-4</id><content type="html" xml:base="http://0.0.0.0:4000/nebula/Testing-1-2-3-4/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-02-03T18:44:54-05:00</updated><id>http://0.0.0.0:4000/atom.xml</id><title type="html">Suburban Backyard Astro Sights (new look)</title><subtitle>Sharing celestial scenery revealed by my 8-inch telescope</subtitle><author><name>Howard Grams</name><email>howardgrams@yahoo.com</email></author><entry><title type="html">Testing 1 2 3 4. . .</title><link href="http://0.0.0.0:4000/nebula/Testing-1-2-3-4/" rel="alternate" type="text/html" title="Testing 1 2 3 4. . ." /><published>2022-02-02T00:00:00-05:00</published><updated>2022-02-02T00:00:00-05:00</updated><id>http://0.0.0.0:4000/nebula/Testing-1-2-3-4</id><content type="html" xml:base="http://0.0.0.0:4000/nebula/Testing-1-2-3-4/">&lt;style&gt;
   .mobile {
     padding: 15px;
   border: 1px solid #d6e9c6;
@@ -252,10 +252,16 @@ document.write('&lt;i&gt;&lt;small&gt;(Pinch-zoom out to enlarge image.)&lt;/sma
 &lt;p&gt;If we could travel across space and time to see our own galaxy from the outside looking in, it would probably look a lot like 
 NGC 891. Astronomer Sir Patrick Moore once said that the galaxy looks like “two fried eggs clapped back to back.”&lt;/p&gt;</content><author><name>Howard Grams</name><email>howardgrams@yahoo.com</email></author><category term="galaxy" /><category term="ngc1232" /><category term="ngc7331" /><category term="ngc891" /><summary type="html">Here are three different faint spiral galaxies that look quite different since we view them from different angles.</summary></entry><entry><title type="html">The Running Man Nebula</title><link href="http://0.0.0.0:4000/nebula/open/Running-Man-Nebula/" rel="alternate" type="text/html" title="The Running Man Nebula" /><published>2021-03-05T00:00:00-05:00</published><updated>2021-03-05T00:00:00-05:00</updated><id>http://0.0.0.0:4000/nebula/open/Running%20Man%20Nebula</id><content type="html" xml:base="http://0.0.0.0:4000/nebula/open/Running-Man-Nebula/">&lt;p&gt;Following a stretch of poor weather, I got a chance to take the telescope out again the other night and got a good look at a somewhat whimsical space ghost - the Running Man Nebula.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;The Running Man Nebula&lt;/strong&gt;&lt;/em&gt;     (20 min total exposure Mar 3, 2021)&lt;br /&gt;    (move mouse over image to show notes, mouse off image to remove notes)&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;The Running Man Nebula&lt;/strong&gt;&lt;/em&gt;     (20 min total exposure Mar 3, 2021)&lt;br /&gt;
+&lt;script&gt;
+  if (window.matchMedia(&quot;(any-hover: hover)&quot;).matches) {
+    document.write('&lt;i&gt;&lt;small&gt;(Move mouse over image to show notes, mouse off image to restore original image.)&lt;/small&gt;&lt;/i&gt;&lt;br /&gt;')
+     }  else {
+document.write('&lt;i&gt;&lt;small&gt;(Tap image to show notes and tap away from image to restore original image. Pinch-zoom out to enlarge image.)&lt;/small&gt;&lt;/i&gt;&lt;br /&gt;')
+ }
+&lt;/script&gt;
 &lt;img src=&quot;/images/ngc1977+ngc1973+ngc1981+m43_2021-03-03T20_58_24_Stack_16bits_402frames_1206s_bin40pc.jpg&quot; alt=&quot;Running Man Nebula as viewed by Celestron RASA 8&quot; onmouseover=&quot;this.src='/images/ngc1977+ngc1973+ngc1981+m43_2021-03-03t20_58_24_stack_16bits_402frames_1206s_bin40pc_notes.jpg'&quot; onmouseout=&quot;this.src='/images/ngc1977+ngc1973+ngc1981+m43_2021-03-03T20_58_24_Stack_16bits_402frames_1206s_bin40pc.jpg'&quot; /&gt;
-&lt;br /&gt;
-(If you are viewing on a touchscreen device, tap the image to reveal the notations and tap away from the image to restore the original image.)&lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Running Man (sometimes called the Ghost Nebula) vaguely resembles the shape of a man sprinting, with his huge arms in motion.&lt;/p&gt;
 
@@ -265,15 +271,9 @@ NGC 891. Astronomer Sir Patrick Moore once said that the galaxy looks like “tw
 
 &lt;p&gt;This whole region is just a half degree (i.e. the width of the moon) north of the great Orion Nebula that I previously shared &lt;a href=&quot;../Orion-Nebula/index.html&quot;&gt;here&lt;/a&gt;. (You can see the extreme bottom of the Running Man Nebula at the extreme top of that image.)&lt;/p&gt;</content><author><name>Howard Grams</name><email>howardgrams@yahoo.com</email></author><category term="nebula" /><category term="open" /><category term="ngc1973" /><category term="ngc1975" /><category term="ngc1977" /><category term="ngc1981" /><summary type="html">Following a stretch of poor weather, I got a chance to take the telescope out again the other night and got a good look at a somewhat whimsical space ghost - the Running Man Nebula.</summary></entry><entry><title type="html">A Celestial Valentine - The Heart Nebula</title><link href="http://0.0.0.0:4000/nebula/open/The-Heart-Nebula/" rel="alternate" type="text/html" title="A Celestial Valentine - The Heart Nebula" /><published>2021-02-14T00:00:00-05:00</published><updated>2021-02-14T00:00:00-05:00</updated><id>http://0.0.0.0:4000/nebula/open/The%20Heart%20Nebula</id><content type="html" xml:base="http://0.0.0.0:4000/nebula/open/The-Heart-Nebula/">&lt;p&gt;Although I made this picture back in December, I thought it would be appropriate to wait and post it on Valentine’s Day.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;The Heart Nebula&lt;/strong&gt;&lt;/em&gt;     (15 min exposure Dec 14, 2020)&lt;br /&gt;
-&lt;img src=&quot;/images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse.jpg&quot; alt=&quot;Heart Nebula seen using Celestron RASA 8 and ZWO ASI183MC&quot; /&gt;
-&lt;br /&gt;
-I had problems getting my usual notations to appear and disappear by moving the mouse, so here 
-is the image with notations.
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;The Heart Nebula&lt;/strong&gt;&lt;/em&gt;     (15 min exposure Dec 14, 2020)&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;The Heart Nebula with notations&lt;/strong&gt;&lt;/em&gt;  &lt;br /&gt;
-&lt;img src=&quot;/images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse_notes.jpg&quot; alt=&quot;Heart Nebula seen using Celestron RASA 8 and ZWO ASI183MC&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse.jpg&quot; alt=&quot;Heart Nebula seen using Celestron RASA 8 and ZWO ASI183MC&quot; onmouseover=&quot;this.src='/images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse_notes.jpg'&quot; onmouseout=&quot;this.src='/images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse.jpg'&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;

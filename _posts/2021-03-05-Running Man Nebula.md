@@ -6,14 +6,14 @@ tags:  ngc1973 ngc1975 ngc1977 ngc1981
 ---
 Following a stretch of poor weather, I got a chance to take the telescope out again the other night and got a good look at a somewhat whimsical space ghost - the Running Man Nebula.
 
-_**The Running Man Nebula**_  &nbsp;&nbsp; (20 min total exposure Mar 3, 2021)<br>    (move mouse over image to show notes, mouse off image to remove notes)<br>
+_**The Running Man Nebula**_  &nbsp;&nbsp; (20 min total exposure Mar 3, 2021)<br>
+{% include /explainnotes.js %}
 <img src = "/images/ngc1977+ngc1973+ngc1981+m43_2021-03-03T20_58_24_Stack_16bits_402frames_1206s_bin40pc.jpg"
 alt = "Running Man Nebula as viewed by Celestron RASA 8"
 onmouseover = "this.src='/images/ngc1977+ngc1973+ngc1981+m43_2021-03-03t20_58_24_stack_16bits_402frames_1206s_bin40pc_notes.jpg'"
 onmouseout = "this.src='/images/ngc1977+ngc1973+ngc1981+m43_2021-03-03T20_58_24_Stack_16bits_402frames_1206s_bin40pc.jpg'"
 />
 <br>
-(If you are viewing on a touchscreen device, tap the image to reveal the notations and tap away from the image to restore the original image.)
 
 The Running Man (sometimes called the Ghost Nebula) vaguely resembles the shape of a man sprinting, with his huge arms in motion.
 

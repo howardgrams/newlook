@@ -21,9 +21,9 @@ _**Comet NEOWISE on Aug 6 at 10:00pm**_&nbsp;&nbsp; (1 min exposure)<br>
 
 This third image is a stack of 18 separate one-minute exposures aligned on the coment nucleus instead of the background stars.  This causes the background star images to show as trails instead of as points of light.
 
-You can more easily make out the ion and dust tails.  Move the mouse cursor over the image to display notations.
-
-_**Comet NEOWISE on Aug 6   (move mouse off image to remove notes)**_<br>
+You can more easily make out the ion and dust tails.  
+_**Comet NEOWISE on Aug 6**_<br>
+{% include /explainnotes.js %}
 <img src = "/images/c2020f3_2020-08-09_DSS-18x60sec_bin35pc-develop+pse.jpg"
 alt = "C/2020 F3 seen using Celestron RASA 8 and ZWO ASI183MC"
 onmouseover = "this.src='/images/c2020f3_2020-08-09_dss-18x60sec_bin35pc-develop+pse_notes.jpg'"

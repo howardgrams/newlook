@@ -8,7 +8,8 @@ This is an update to my May 16 post.  The sky was clear and moonless last Friday
 
 Move your mouse over the image to display some notes. I've pointed out two other smaller spiral galaxies. The four arrows lacking legends point to foreground stars in our Milky Way that just happen to be in nearly the same direction and have nearly the same brightness as the supernova that is part of the M61 galaxy.
 
-_**M61 Supernova on June 12    (move mouse over image to show notes, mouse off image to reshow original)**_
+_**M61 Supernova on June 12**_<br>
+{% include /explainnotes.js %}
 <img src="/images/m61_2020-06-12T22_36_54_Stack_16bits_201frames_603s.jpg" 
 alt="M61 on June 12, 2020 seen using Celestron RASA 8 and ZWO ASI183MC"
 onmouseover="this.src='/images/m61_2020-06-12T22_36_54_Stack_16bits_201frames_603s_notes.jpg'"

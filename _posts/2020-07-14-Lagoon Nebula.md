@@ -9,7 +9,8 @@ cluster NGC 6530 whose stars have been newly formed from the nebular material.
 
 The distance to the Lagoon Nebula is variously quoted as being between 4800 and 6500 light years.
 
-_**The Lagoon Nebula    (move mouse over image to show notes, mouse off image to remove notes)**_ &nbsp;&nbsp; (10 min total exposure June 27, 2020)<br>
+_**The Lagoon Nebula**_ &nbsp;&nbsp; (10 min total exposure June 27, 2020)<br>
+{% include /explainnotes.js %}
 <img src = "/images/m8_2020-06-27T02_19_51_Stack_16bits_201frames_603s_bin2x.jpg"
 alt = "m8 seen using Celestron RASA 8 and ZWO ASI183MC"
 onmouseover = "this.src='/images/m8_2020-06-27t02_19_51_stack_16bits_201frames_603s_bin2x_notes.jpg'"
@@ -22,7 +23,8 @@ The brightest of the hot stars that light up the western (right) side of the neb
 
 The brightest part of the Lagoon Nebula contains a feature known as the Hourglass, a region where vivid star formation is taking place. The image below is enlarged and processed to bring out detail in the brightest portions in an attempt to show the Hourglass.
 
-_**Inner part of Lagoon Nebula    (move mouse over image to show notes, mouse off image to remove notes)**_<br>
+_**Inner part of Lagoon Nebula**_<br>
+{% include /explainnotes.js %}
 <img src = "/images/m8_2020-06-27T02_19_51_Stack_16bits_201frames_603s_crop_nobin_C.jpg"
 alt = "m8 seen using Celestron RASA 8 and ZWO ASI183MC"
 onmouseover = "this.src='/images/m8_2020-06-27t02_19_51_stack_16bits_201frames_603s_crop_nobin_c_notes.jpg'"
