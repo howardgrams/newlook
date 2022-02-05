@@ -26,4 +26,4 @@ The Ring Nebula is four times further away from us than the Helix, at about 2570
 
 In both of these images it is easy to pick out the dying star at the exact center of the ring.
 
- Previous planetary nebulae that I've posted about include the [Dumbell](../Dumbbell-Nebula/index.html) and [Owl](../M97-and-M108/index.html) and even [NGC 2348](../Open-Clusters/index.html). 
+ Previous planetary nebulae that I've posted about include the [Dumbell]({% post_url 2020-09-01-Dumbbell Nebula %} ) and [Owl]({% post_url 2020-02-27-M97 and M108 %} ) and even [NGC 2348]({% post_url 2020-05-27-Open Clusters %} ). 

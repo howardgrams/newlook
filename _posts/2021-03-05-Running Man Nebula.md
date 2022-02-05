@@ -21,4 +21,5 @@ The Running Man nebula comprises three separate reflection nebulae, NGC 1973, NG
 
 Reflection nebulae don't emit light of their own, instead being made of dust that is lit up by nearby embedded young stars.
 
-This whole region is just a half degree (i.e. the width of the moon) north of the great Orion Nebula that I previously shared [here](../Orion-Nebula/index.html). (You can see the extreme bottom of the Running Man Nebula at the extreme top of that image.)
+This whole region is just a half degree (i.e. the width of the moon) north of the great Orion Nebula that I previously shared 
+[here]({% post_url 2020-02-03-Orion Nebula %}). (You can see the extreme bottom of the Running Man Nebula at the extreme top of that image.)

@@ -32,4 +32,4 @@ Since the Heart Nebula is a large object, larger than the field of view of my te
 
 ---
 
-Today's post is the beginning of a second year for this blog.  My [first post](../Orion-Nebula/index.html) was on February 3 of last year.
+Today's post is the beginning of a second year for this blog.  My [first post]({% post_url 2020-02-03-Orion Nebula %} ) was on February 3 of last year.
