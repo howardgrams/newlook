@@ -45,7 +45,7 @@ function toggleToc(elem) {
   tocToggle.classList.toggle('js-toc-is-open');
 
   if (elem.classList.contains('js-toc-is-open')) {
-    hideToc(elem);
+      hideToc(elem);
     return;
   }
 
