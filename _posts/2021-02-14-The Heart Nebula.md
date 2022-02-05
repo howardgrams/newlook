@@ -7,7 +7,7 @@ tags:  ic1805 ngc1027  ngc896  ic1795
 Although I made this picture back in December, I thought it would be appropriate to wait and post it on Valentine's Day.
 
 _**The Heart Nebula**_  &nbsp;&nbsp; (15 min exposure Dec 14, 2020)<br>
-
+{% include /explainnotes.js %}
 <img src = "/images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse.jpg"
 alt = "Heart Nebula seen using Celestron RASA 8 and ZWO ASI183MC"
 onmouseover = "this.src='/images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse_notes.jpg'"
@@ -17,7 +17,7 @@ onmouseout = "this.src='/images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300fram
 
 ---
 
-The Heart Nebula, IC 1805 or Sharpless 2-190, lies about 7500 light years away from Earth.  
+The Heart Nebula, IC 1805 or Sharpless 2-190, lies about 7500 light years away from Earth.
 It is an emission nebula showing glowing ionized hydrogen gas and darker dust lanes.
 
 The Heart Nebula's intense red output is driven by the radiation emanating from a small group of stars near the nebula's center. This open cluster of stars, known as Collinder 26 or Melotte 15, contains a few bright stars nearly 50 times the mass of our Sun, and many more dim stars that are only a fraction of our Sun's mass.
