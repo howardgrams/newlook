@@ -7,7 +7,7 @@ $small: 320px !default;
 $medium: 768px !default;
 $large: 1024px !default;
 $xlarge: 1280px !default;
-$xxlarge: 1280px !default;  /* added 2/3/2022 HLG */
+$xxlarge: 1440px ;  /* added 2/3/2022 HLG */
 
 /* Fluid type */
 $base-font-size: 16px !default;
@@ -82,15 +82,15 @@ $vine-color: #00bf8f !default;
 $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
-/* Max-width of the main content ( changed from medium to xxlarge 2/1/2022 HLG */
-$main-max-width: $xxlarge !default;
+/* Max-width of the main content ( changed from medium to xlarge 2/1/2022 HLG */
+$main-max-width: $xxlarge ;
 
-/* Max-width of the main content + sidebar changed from medium to xxlarge 2/3/2022 HLG */
-$main-sidebar-max-width: $xxlarge !default;
+/* Max-width of the main content + sidebar */
+$main-sidebar-max-width: $xxlarge ;
 
 /* Site logo */
-$site-logo-width: 100px !default;  /* 75 -> dia 1.25", 100 -> dia 1.75" */
-$site-logo-height: 100px !default;
+$site-logo-width: 75px !default;
+$site-logo-height: 75px !default;
 
 /* Border radius */
 $border-radius: 0.25rem !default;

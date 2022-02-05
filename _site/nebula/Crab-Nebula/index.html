@@ -47,7 +47,7 @@
   </script>
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="stylesheet" href="/assets/css/skins/light.css">
+  <link rel="stylesheet" href="/assets/css/skins/default.css">
   
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i|Lora:400,400i,700,700i">
   <link rel="alternate" type="application/atom+xml" title="Suburban Backyard Astro Sights" href="/atom.xml">
@@ -118,9 +118,6 @@
       </div><ul class="author-links"><li class="author-link">
             <a class="u-url" rel="me" href=""><i class="fas fa-link fa-lg" title=""></i></a>
           </li></ul>
-
-<span class="read-time">~1 min read</span>
-
     <time class="page-date dt-published" datetime="2020-02-15T00:00:00-05:00"><a class="u-url" href="">February 15, 2020</a>
 </time>
 
@@ -160,28 +157,15 @@ document.write('<i><small>(Pinch-zoom out to enlarge image.)</small></i><br />')
 
         
           <script>
-    if (window.matchMedia("(any-hover: hover)").matches) {
-      document.write(' ')
-       }  else {
-           document.write('<hr>')
-  document.write('<i><small>It appears that you are using a phone or a small tablet. ') 
-  document.write('Since the images in this blog are relatively large and contain a lot of detail, I would suggest')
-  document.write(' that you consider returning sometime when you can use a computer with its larger screen.</small></i><br>')
-  document.write('<hr>')
-   }
+    if (window.matchMedia("(max-width: 1200px)").matches) {
+      document.write('<hr>')
+      document.write('<i><small>It appears that you are using a phone or a small tablet. ') 
+      document.write('Since the images in this blog are relatively large and contain a lot of detail, I would suggest')
+      document.write(' that you consider returning sometime when you can use a computer with its larger screen.</small></i><br>')
+      document.write('<hr>')
+         }
   </script>
         
-
-        
-          <div id="hyvor-talk-view"></div>
-<script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = 802;
-    var HYVOR_TALK_CONFIG = {
-        url: false,
-        id: '/nebula/Crab Nebula'
-    };
-</script>
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed.js"></script>
 
         
         <nav class="page-pagination" role="navigation">
@@ -209,7 +193,7 @@ document.write('<i><small>(Pinch-zoom out to enlarge image.)</small></i><br />')
       </div>
     </div>
   </article>
-</main>2
+</main>
 
     <footer id="footer" class="site-footer">
   Click on the envolope to send me email.<div class="social-icons"><a class="social-icon" href="mailto:howardgrams@yahoo.com"><i class="fas fa-envelope fa-2x" title="Feed"></i></a></div><div class="copyright">

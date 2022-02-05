@@ -24,10 +24,9 @@
 /* Font Families */
 /* YIQ color contrast */
 /* Brands */
-/* Max-width of the main content ( changed from medium to xxlarge 2/1/2022 HLG */
-/* Max-width of the main content + sidebar changed from medium to xxlarge 2/3/2022 HLG */
+/* Max-width of the main content ( changed from medium to xlarge 2/1/2022 HLG */
+/* Max-width of the main content + sidebar */
 /* Site logo */
-/* 75 -> dia 1.25", 100 -> dia 1.75" */
 /* Border radius */
 /* Global transition */
 /* ========================================================================== Clearfix Mixin ========================================================================== */
@@ -310,7 +309,7 @@ tr, td, th { vertical-align: middle; }
 .skip-links ul { margin: 0; padding: 0; list-style: none; }
 
 #menu-toggle { display: block; margin: 0; padding: 0.25em 0.75em 0.5em; text-transform: uppercase; text-decoration: none; text-align: center; }
-@media (min-width: 48em) { #menu-toggle { display: none; } }
+@media (min-width: 20em) { #menu-toggle { display: none; } }
 
 .site-nav { display: none; margin-bottom: 1em; text-align: center; }
 .site-nav ul { display: block; margin: 0; padding: 0.25em 0.75em; list-style: none; border-radius: 0 0 0.5rem 0.5rem; }
@@ -336,9 +335,9 @@ tr, td, th { vertical-align: middle; }
 
 .site-logo { display: inline-block; position: relative; z-index: 10; }
 
-.site-logo-img { width: 100px; height: 100px; border: 5px solid; border-radius: 100px; }
-@media (min-width: 48em) { .site-logo-img { width: 150px; height: 150px; border-radius: 150px; } }
-@media (min-width: 64em) { .site-logo-img { width: 200px; height: 200px; border-radius: 200px; } }
+.site-logo-img { width: 75px; height: 75px; border: 5px solid; border-radius: 75px; }
+@media (min-width: 48em) { .site-logo-img { width: 112.5px; height: 112.5px; border-radius: 112.5px; } }
+@media (min-width: 64em) { .site-logo-img { width: 150px; height: 150px; border-radius: 150px; } }
 
 .site-footer { clear: both; margin: 2em 0; padding: 2em 0; text-align: center; border-top: 1px solid; }
 .site-footer::after { clear: both; content: ""; display: table; }
@@ -390,16 +389,16 @@ tr, td, th { vertical-align: middle; }
 .toc-wrapper li ol { padding-left: 0.5rem; list-style-type: lower-roman; }
 
 /* ========================================================================== Page ========================================================================== */
-.page-wrapper { margin: 0 auto; padding-left: 1em; padding-right: 1em; max-width: 1280px; }
+.page-wrapper { margin: 0 auto; padding-left: 1em; padding-right: 1em; max-width: 1440px; }
 
 .page-title { margin-bottom: 0.5em; font-family: "Lora", serif; font-weight: bold; font-style: italic; letter-spacing: -2px; }
 .page-title { font-size: 60px; }
 @media screen and (min-width: 320px) { .page-title { font-size: calc(60px + 0 * ((100vw - 320px) / 960)); } }
 @media screen and (min-width: 1280px) { .page-title { font-size: 60px; } }
 
-.page-image { position: relative; text-align: center; margin-top: -50px; margin-bottom: 2em; z-index: 1; }
-@media (min-width: 48em) { .page-image { margin-top: -75px; } }
-@media (min-width: 64em) { .page-image { margin-top: -100px; } }
+.page-image { position: relative; text-align: center; margin-top: -37.5px; margin-bottom: 2em; z-index: 1; }
+@media (min-width: 48em) { .page-image { margin-top: -56.25px; } }
+@media (min-width: 64em) { .page-image { margin-top: -75px; } }
 .page-image img { width: 100%; }
 
 .page-image-caption { position: absolute; bottom: 0; right: 0; margin: 0 auto; padding: 0.25em 0.5em; color: #fff; font-size: 0.75rem; background: #000; text-align: right; z-index: 5; opacity: 0.5; border-radius: 4px 0 0 0; }
@@ -443,7 +442,7 @@ tr, td, th { vertical-align: middle; }
 .page-pagination-title { margin: 0; padding: 0; font-family: "Lora", serif; font-size: 0.9rem; font-style: italic; }
 
 /* Wide Layout Overrides ========================================================================== */
-.layout--home .page-wrapper, .layout--posts .page-wrapper, .layout--categories .page-wrapper, .layout--tags .page-wrapper, .layout--category .page-wrapper, .layout--tag .page-wrapper, .layout--collection .page-wrapper, .layout--search .page-wrapper { max-width: 1280px; }
+.layout--home .page-wrapper, .layout--posts .page-wrapper, .layout--categories .page-wrapper, .layout--tags .page-wrapper, .layout--category .page-wrapper, .layout--tag .page-wrapper, .layout--collection .page-wrapper, .layout--search .page-wrapper { max-width: 1440px; }
 .layout--home .page-title, .layout--posts .page-title, .layout--categories .page-title, .layout--tags .page-title, .layout--category .page-title, .layout--tag .page-title, .layout--collection .page-title, .layout--search .page-title { text-align: center; }
 
 @media (min-width: 64em) { .layout--post .page-wrapper { display: grid; grid-column-gap: 3em; grid-row-gap: 0; grid-template-columns: 175px 1fr; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; } }
@@ -457,7 +456,7 @@ tr, td, th { vertical-align: middle; }
 @supports (display: grid) { .layout--post .page-content { width: auto; margin: 0; } }
 .layout--post .page-share { clear: both; }
 
-.page--wide .page-wrapper { max-width: 1280px; }
+.page--wide .page-wrapper { max-width: 1440px; }
 
 /* ========================================================================== Author ========================================================================== */
 .author-avatar { margin-right: 1em; width: 50px; height: auto; border-radius: 50%; }
