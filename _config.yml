@@ -17,11 +17,12 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
-locale: en-US
+locale: en-USy
+
 title: "Suburban Backyard Astro Sights"
 description: "Sharing celestial scenery revealed by my 8-inch telescope"
 url: https://howardgrams.github.io
-baseurl: /newlook
+#baseurl: /newlook
 logo: "/images/avatar.jpg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -74,7 +75,7 @@ tag_archive_path: "/tags/#"
 #   - vendor/gems/
 #   - vendor/ruby/
 
-copyright: "Copyright 2022 Howard Grams"
+copyright: "All contents Copyright 2022 Howard Grams"
 
 plugins:
   - jekyll-seo-tag

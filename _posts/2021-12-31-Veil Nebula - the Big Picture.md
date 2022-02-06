@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Veil Nebula - the Big Picture
+title: The Veil Nebula - the big picture
 categories:  nebula  
 tags:  
 ---

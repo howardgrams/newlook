@@ -229,13 +229,18 @@ var store = [{
         "tags": [],
         "url": "http://0.0.0.0:4000/nebula/Pickering's-Triangle/"
       },{
-        "title": "The Veil Nebula - the Big Picture",
+        "title": "The Veil Nebula - the big picture",
         "excerpt":"The entire Veil Nebula (also known as the Cygnus Loop) is BIG - it covers over five times the size of the full Moon. My previous three posts were recent images of the three brightest parts of the complex. Here I have mosaicked together five separate older images so you...","categories": ["nebula"],
         "tags": [],
         "url": "http://0.0.0.0:4000/nebula/Veil-Nebula-the-Big-Picture/"
       },{
-        "title": "The Horsehead and Flame - the Big Picture",
+        "title": "The Horsehead and Flame - the big picture",
         "excerpt":"Here’s a fresh view showing both the Horsehead Nebula and the Flame Nebula, two celestial showpieces that are located quite close to each other in the constellation Orion.This past week we had a night with exceptionally clear and transparent skies. I was able to image a couple of new objects...","categories": ["nebula"],
         "tags": ["ngc2023","ngc2024","ic432","ic434","ic435","b33"],
         "url": "http://0.0.0.0:4000/nebula/Horsehead-and-Flame-the-Big-Picture/"
+      },{
+        "title": "A facelift for our second anniversary",
+        "excerpt":"It has been two years since I started this blog. My first post (click here to see it) showed the famous Orion Nebula.It seemed to be about time for a little facelift. Please send me an email if you notice something that seems not to be working properly after the...","categories": [],
+        "tags": [],
+        "url": "http://0.0.0.0:4000/Facelift-for-anniversary/"
       }]

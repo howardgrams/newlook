@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Horsehead and Flame - the Big Picture
+title: The Horsehead and Flame - the big picture
 categories:  nebula  
 tags:  ngc2023 ngc2024  ic432 ic434 ic435 b33
 ---
