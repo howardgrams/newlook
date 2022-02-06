@@ -22,9 +22,9 @@ The darkness of the Horsehead (B 33) is caused mostly by thick dust blocking the
 (Reflection nebulae are clouds of interstellar dust that reflect the light from nearby or internal sources, like fog around a car headlight.)
 The very bright star Zeta Orionis (the left-most star in Orion's belt) is a foreground star, not associated with the Orion Molecular Cloud components. 
 
-Click [here]({% post_url 2020-03-03-Horsehead nebula %} )
+Click [here]({{ site.baseurl }}{% post_url 2020-03-03-Horsehead nebula %} )
 to see my original post of the Horsehead, and
-click [here]({% post_url 2020-02-28-Flame Nebula %} )
+click [here]({{ site.baseurl }}{% post_url 2020-02-28-Flame Nebula %} )
 to see my original post of the Flame.
 Today's image is a longer exposure that covers a larger area of the sky and shows vividly how the two are really part of the much larger complex. Plus, the sky conditions were better this week and I've learned a little more about taking and processing images in the meantime.
 
