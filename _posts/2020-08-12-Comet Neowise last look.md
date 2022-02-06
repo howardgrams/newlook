@@ -5,7 +5,7 @@ categories: comet
 tags: neowise c2020f3
 ---
 
-This is a follow-up to my [July 29]({% post_url 2020-07-29-Comet Neowise %} ) post.  Comet NEOWISE has faded rapidly in the last eight days as it continues to move away from the sun and the earth. 
+This is a follow-up to my [July 29]({{ site.baseurl }}{% post_url 2020-07-29-Comet Neowise %} ) post.  Comet NEOWISE has faded rapidly in the last eight days as it continues to move away from the sun and the earth. 
 
 These pictures were taken on August 6 when the comet was only 1/8 as bright as it was when the previous pictures were taken on July 26.
 

@@ -6,8 +6,8 @@ tags: m61
 ---
 
 I previously posted about this supernova on
-[May 16]({% post_url 2020-05-16-M61 Supernova %} ) and on
-[June 16]({% post_url 2020-06-16-M61 Supernova revisited %} ). Here are pictures taken at three additional dates showing how the supernova has faded back to invisibility.
+[May 16]({{ site.baseurl }}{% post_url 2020-05-16-M61 Supernova %} ) and on
+[June 16]({{ site.baseurl }}{% post_url 2020-06-16-M61 Supernova revisited %} ). Here are pictures taken at three additional dates showing how the supernova has faded back to invisibility.
 
 This supernova (officially named SN 2020jfo) was first discovered on May 6 while it was still brightening after exploding.  I have cropped and rotated all these pictures so the orientation and scale match each other.
 

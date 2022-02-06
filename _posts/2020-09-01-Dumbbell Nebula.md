@@ -16,9 +16,9 @@ So-called planetary nebulae are the remains of stars similar to our Sun. When th
 
  The gas cloud of a planetary nebula keeps expanding until it dissipates into the surrounding space. Measurements of the size of the nebula over time suggest that it is about three to four thousand years old.  In another ten thousand years it will have faded to invisibility.  Enjoy the Dumbbell while it lasts!
 
- My recent posts featuring the [Trifid]({% post_url 2020-08-14-Trifid Nebula %} ), 
- [Lagoon]({% post_url 2020-07-14-Lagoon Nebula %} ),
- and [Eagle]({% post_url 2020-07-03-The Eagle Nebula %} ) nebulae showed stars being born.
- Planetary nebulae like the Dumbell and [Owl]({% post_url 2020-02-27-M97 and M108 %} ) represent star end of life situations -- exactly the opposite.
+ My recent posts featuring the [Trifid]({{ site.baseurl }}{% post_url 2020-08-14-Trifid Nebula %} ), 
+ [Lagoon]({{ site.baseurl }}{% post_url 2020-07-14-Lagoon Nebula %} ),
+ and [Eagle]({{ site.baseurl }}{% post_url 2020-07-03-The Eagle Nebula %} ) nebulae showed stars being born.
+ Planetary nebulae like the Dumbell and [Owl]({{ site.baseurl }}{% post_url 2020-02-27-M97 and M108 %} ) represent star end of life situations -- exactly the opposite.
 
  
