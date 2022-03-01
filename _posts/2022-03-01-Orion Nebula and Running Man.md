@@ -30,7 +30,7 @@ I processed the same image more aggressively in order to bring out more subtle d
 
 
 _**Orion Nebula and Running Man**_  &nbsp;&nbsp; (40 min total exposure Feb 28, 2022)<br>
-![m42+m43+ngc1973+ngc1981 seen using Celestron RASA 8 and ZWO ASI183MC](/images/m42+m43+ngc1973+ngc1981_2022-02-28T21_34_42_Stack_16bits_480frames_2400s_bin25pc_hdreq.jpg)
+![m42+m43+ngc1973+ngc1981 seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/m42+m43+ngc1973+ngc1981_2022-02-28T21_34_42_Stack_16bits_480frames_2400s_bin25pc_hdreq.jpg)
 
 -----------------
 
@@ -39,7 +39,7 @@ The four brightest stars at the heart of the Orion Nebula are known as The Trape
 The four Trapezium stars are known as Theta<sup>1</sup> Orionis, and the 3 similarly bright stars to the left of the Trapezium are known as Theta<sup>2</sup> Orionis. In a larger telescope two of the Trapezium stars can be resolved into their component binary systems, giving a total of six stars. 
 
 _**Theta<sup>2</sup> Orionis and the Trapezium**_  &nbsp;&nbsp; (40 min total exposure Feb 28, 2022)<br>
-![m42+m43+ngc1973+ngc1981 seen using Celestron RASA 8 and ZWO ASI183MC](/images/m42+m43+ngc1973+ngc1981_2022-02-28T21_34_42_Stack_16bits_480frames_2400s_nobin_Theta.jpg)
+![m42+m43+ngc1973+ngc1981 seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/m42+m43+ngc1973+ngc1981_2022-02-28T21_34_42_Stack_16bits_480frames_2400s_nobin_Theta.jpg)
 
 ----------------
 
