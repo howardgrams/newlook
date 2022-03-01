@@ -47,3 +47,7 @@ Click [here]({{ site.baseurl }}{% post_url 2020-02-03-Orion Nebula %} )
 to see my previous post of the Orion Nebula  and 
 click [here]({{ site.baseurl }}{% post_url 2021-03-05-Running Man Nebula %} )
 for my previous post showing the Running Man.
+
+======
+_**Theta<sup>2</sup> Orionis and the Trapezium**_  &nbsp;&nbsp; (40 min total exposure Feb 28, 2022)<br>
+![m42+m43+ngc1973+ngc1981 seen using Celestron RASA 8 and ZWO ASI183MC](/images/m42+m43+ngc1973+ngc1981_2022-02-28T21_34_42_Stack_16bits_480frames_2400s_nobin_Theta.jpg)
