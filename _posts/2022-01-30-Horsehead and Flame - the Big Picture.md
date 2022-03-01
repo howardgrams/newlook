@@ -10,10 +10,10 @@ This past week we had a night with exceptionally clear and transparent skies. I 
 
 _**Flame Nebula and Horsehead Nebula**_  &nbsp;&nbsp; (35 min total exposure Jan 27, 2022)<br>
  {% include /explainnotes.js %}
- <img src = "../images/ngc2024_2022-01-27T00_07_19_Stack_16bits_421frames_2105s_bin50pc+pse.jpg"
+ <img src = "{{ site.baseurl }}/images/ngc2024_2022-01-27T00_07_19_Stack_16bits_421frames_2105s_bin50pc+pse.jpg"
 alt = "Flame and Horsehead Nebulae seen using Celestron RASA 8 and ZWO ASI183MC"
-onmouseover = "this.src='../images/ngc2024_2022-01-27t00_07_19_stack_16bits_421frames_2105s_bin50pc+pse_notes.jpg'"
-onmouseout = "this.src='../images/ngc2024_2022-01-27T00_07_19_Stack_16bits_421frames_2105s_bin50pc+pse.jpg'"
+onmouseover = "this.src='{{ site.baseurl }}/images/ngc2024_2022-01-27t00_07_19_stack_16bits_421frames_2105s_bin50pc+pse_notes.jpg'"
+onmouseout = "this.src='{{ site.baseurl }}/images/ngc2024_2022-01-27T00_07_19_Stack_16bits_421frames_2105s_bin50pc+pse.jpg'"
 /><br>
 
 The Flame Nebula and the Horsehead Nebula are part of the Orion Molecular Cloud Complex, a large  star-forming region. They are separated from each other by about half a degree -- approximately the diameter of the full moon. The famous Orion Nebula is also a part of this complex.
