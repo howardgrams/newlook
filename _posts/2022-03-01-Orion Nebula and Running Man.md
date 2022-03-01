@@ -47,6 +47,3 @@ Click [here]({{ site.baseurl }}{% post_url 2020-02-03-Orion Nebula %} )
 to see my previous post of the Orion Nebula  and 
 click [here]({{ site.baseurl }}{% post_url 2021-03-05-Running Man Nebula %} )
 for my previous post showing the Running Man.
-
-
-
