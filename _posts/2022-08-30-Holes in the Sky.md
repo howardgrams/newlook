@@ -2,7 +2,7 @@
 layout: post
 title: Holes in the Sky????
 categories:  nebula  globular
-tags:  m9 b64 b68 b72 b69 b70 b74
+tags:  m9 b64 b68 b72 b69 b70 b74 b142 b143 b104
 ---
 
 And now, for something completely different. . .
