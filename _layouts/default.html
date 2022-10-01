@@ -7,6 +7,14 @@
 -->
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
   {% include head.html %}
+<!--
+   Added the following 10/1/2022 HLG to try to get GA4 working
+   google-analytics4.html contains exactly the code that Goggle said to place after the <head> tag
+    need to put in logic to avoid if localhost
+-->
+{%- if jekyll.environment == 'production' -%}
+  {% include google-analytics4.html %}
+  {%- endif %}
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
     {% include skip-links.html %}
