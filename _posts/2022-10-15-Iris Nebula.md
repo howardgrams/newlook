@@ -17,5 +17,5 @@ An interesting characteristic of this object is that it appears surrounded by da
 
 The dominant color of the brighter reflection nebula is blue, characteristic of dust grains reflecting starlight. A few central filaments of the reflection nebula glow with a faint reddish photoluminesence as some dust grains effectively convert the star's invisible ultraviolet radiation to visible red light. 
 
-(NGC 7023 is actually the star cluster within the nebula, but the cluster and the reflection nebula are one and the same.)
+(NGC 7023 is actually the open star cluster that is contained within the larger nebula which is designated LBN 487.)
 
