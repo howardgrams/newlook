@@ -18,4 +18,4 @@ The Elephant's Trunk Nebula is a small part of the much larger IC 1396 emission 
 
 (Note the faint line that goes from the bottom edge to the top edge about 1/3 of the way from the left edge of the image.  This is the track of a faint satellite that passed through the field of view during the long exposure.  The profusion of artificial satellites is becoming a serious problem for astronomers.)
 
-Besides the resemblance to an elephant's trunk, to me the nebula suggests a battering ram that has perhaps punched a hole in the tapestry of the background Milky Way stars -- that hole being the dark nebula B161 near the right hand edge of the image.  What do you think -- Elephant's Trunk or Battering Ram?
+Besides the resemblance to an elephant's trunk, to me the nebula suggests a battering ram that has perhaps punched a hole in the tapestry of the background Milky Way stars -- that hole being the dark nebula B161 near the right hand edge of the image.  What do you think -- Elephant's Trunk or Battering Ram?  Or something else?
