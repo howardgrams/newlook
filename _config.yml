@@ -75,7 +75,7 @@ tag_archive_path: "/tags/#"
 #   - vendor/gems/
 #   - vendor/ruby/
 
-copyright: "All contents Copyright 2022 Howard Grams"
+copyright: "All images and content on this website &copy;2022 Howard Grams"
 
 plugins:
   - jekyll-seo-tag
@@ -106,6 +106,9 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
+  - title: Email
     url: mailto:howardgrams@yahoo.com
     icon: fas fa-envelope
+#  - title: Feed
+#    url: atom.xml
+#    icon: fas fa-rss-square
